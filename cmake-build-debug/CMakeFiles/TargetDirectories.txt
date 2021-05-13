@@ -1,0 +1,3 @@
+C:/Users/princ/CLionProjects/OSLab/cmake-build-debug/CMakeFiles/OSLab.dir
+C:/Users/princ/CLionProjects/OSLab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/princ/CLionProjects/OSLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
